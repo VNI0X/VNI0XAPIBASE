@@ -146,6 +146,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ Sparrow For [Core Development](https://github.com/sparrow9616)
 - <br>_sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ  Rehanna For [Youtube Proxy](https://github.com/gr8rehanna) 
-- <br>_Maintainer  [Ami](https://github.com/VNI0X)
+- <br>_Maintainer  [VNI0X](https://github.com/VNI0X)
 - <br>__sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ Team yukki and Anon for base repository ♥️.
 
