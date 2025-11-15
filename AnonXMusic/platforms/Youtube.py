@@ -48,11 +48,11 @@ async def get_stream_url(query, video=False):
     apis = [
         {
             "url": "https://api.vniox.store/youtube",
-            "key": "VNI0X_vKWRYn4n80cAHGe"
+            "key": ""
         },
         {
             "url": "https://api.vniox.store/youtube",
-            "key": "VNI0X_vKWRYn4n80cAHGe"
+            "key": ""
         }
     ]
 
